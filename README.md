@@ -6,9 +6,9 @@
 ## 功能
 
 - **日历排班**：月视图日历（含农历），每天最多 3 个班次时段；点击日期即可查看/编辑当日班次与待办。
- <img width="357" height="654" alt="image" src="https://github.com/user-attachments/assets/809d9da8-723e-49a5-8b05-d4269b046e6f" />
+- <img width="357" height="654" alt="image" src="https://github.com/user-attachments/assets/809d9da8-723e-49a5-8b05-d4269b046e6f" />
 - **标签体系**：班次标签（名称、起止时间、颜色、提醒时刻）与待办标签（名称、截止时长、颜色、提醒规则）分开管理。
-  <img width="367" height="650" alt="屏幕截图 2026-10-14 141203" src="https://github.com/user-attachments/assets/7b077037-44cf-4399-991d-b89ccaf69d4f" />
+- <img width="367" height="650" alt="屏幕截图 2026-10-14 141203" src="https://github.com/user-attachments/assets/7b077037-44cf-4399-991d-b89ccaf69d4f" />
 - **待办提醒规则**
   - 截止时长以「天」为单位：可选择截止日当天几点提醒。
   - 截止时长以「小时」为单位：可设置截止时刻前 N 小时 M 分钟提前提醒。
