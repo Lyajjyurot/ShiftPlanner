@@ -6,22 +6,22 @@
 ## 功能
 
 - **日历排班**：月视图日历（含农历），每天最多 3 个班次时段；点击日期即可查看/编辑当日班次与待办。
-- <img width="357" height="654" alt="image" src="https://github.com/user-attachments/assets/809d9da8-723e-49a5-8b05-d4269b046e6f" />
+  - <img width="357" height="654" alt="image" src="https://github.com/user-attachments/assets/809d9da8-723e-49a5-8b05-d4269b046e6f" />
 - **标签体系**：班次标签（名称、起止时间、颜色、提醒时刻）与待办标签（名称、截止时长、颜色、提醒规则）分开管理。
-- <img width="367" height="650" alt="屏幕截图 2026-10-14 141203" src="https://github.com/user-attachments/assets/7b077037-44cf-4399-991d-b89ccaf69d4f" />
+  - <img width="367" height="650" alt="屏幕截图 2026-10-14 141203" src="https://github.com/user-attachments/assets/7b077037-44cf-4399-991d-b89ccaf69d4f" />
 - **待办提醒规则**
   - 截止时长以「天」为单位：可选择截止日当天几点提醒。
   - 截止时长以「小时」为单位：可设置截止时刻前 N 小时 M 分钟提前提醒。
-    <img width="366" height="650" alt="屏幕截图 2026-10-14 141232" src="https://github.com/user-attachments/assets/405388e3-f578-4982-b358-4cbac682ceec" />
+    -<img width="366" height="650" alt="屏幕截图 2026-10-14 141232" src="https://github.com/user-attachments/assets/405388e3-f578-4982-b358-4cbac682ceec" />
 - **批量排班**：自动排班（起止日期 + 间隔 + 冲突处理）与区间重排，生成前可预览将写入/冲突的日期。
 - **混合选择**：普通排班、自动排班、点击日期排班三种方式均可一次混选班次与待办标签，最多三个。
-  <img width="368" height="648" alt="屏幕截图 2026-10-14 141353" src="https://github.com/user-attachments/assets/2ff59f76-0124-4dd7-98a7-be1a524fdd73" /><img width="365" height="649" alt="屏幕截图 2026-10-14 141344" src="https://github.com/user-attachments/assets/a084ca34-280a-4ef0-bab7-4b7230ac5307" /><img width="364" height="648" alt="屏幕截图 2026-10-14 141251" src="https://github.com/user-attachments/assets/703c8de1-262c-42a1-9dc0-8c1375dd21e2" />
+  - <img width="368" height="648" alt="屏幕截图 2026-10-14 141353" src="https://github.com/user-attachments/assets/2ff59f76-0124-4dd7-98a7-be1a524fdd73" /><img width="365" height="649" alt="屏幕截图 2026-10-14 141344" src="https://github.com/user-attachments/assets/a084ca34-280a-4ef0-bab7-4b7230ac5307" /><img width="364" height="648" alt="屏幕截图 2026-10-14 141251" src="https://github.com/user-attachments/assets/703c8de1-262c-42a1-9dc0-8c1375dd21e2" />
 - **统计**：按月统计值班天数、值班时长（按标签分色的饼图）、日均时长与休息天数。
-  <img width="362" height="649" alt="屏幕截图 2026-10-14 141306" src="https://github.com/user-attachments/assets/41dc5b39-e88f-4989-9dbd-21f9cbf86ac3" />
+  - <img width="362" height="649" alt="屏幕截图 2026-10-14 141306" src="https://github.com/user-attachments/assets/41dc5b39-e88f-4989-9dbd-21f9cbf86ac3" />
 - **系统日历提醒**：把班次/待办写入手机系统日历（受系统保护，应用被清理或锁屏后仍能提醒），支持选择目标日历、立即同步、一键删除本工具写入的全部日程。
 - **备份与恢复**：本地备份到应用私有目录，可新建/恢复/删除/清空备份。
 - **深色模式**：跟随系统的深色/浅色切换。
-<img width="366" height="647" alt="屏幕截图 2026-10-14 141416" src="https://github.com/user-attachments/assets/4fa55656-5bd9-4ba4-9985-ad9333134c32" /><img width="362" height="650" alt="屏幕截图 2026-10-14 141435" src="https://github.com/user-attachments/assets/67a11d8b-0195-4f80-b980-31eb995da906" />
+  - <img width="366" height="647" alt="屏幕截图 2026-10-14 141416" src="https://github.com/user-attachments/assets/4fa55656-5bd9-4ba4-9985-ad9333134c32" /><img width="362" height="650" alt="屏幕截图 2026-10-14 141435" src="https://github.com/user-attachments/assets/67a11d8b-0195-4f80-b980-31eb995da906" />
 
 ## 隐私与安全
 
