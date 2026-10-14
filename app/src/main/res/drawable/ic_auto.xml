@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp"
+    android:viewportWidth="24" android:viewportHeight="24">
+    <!-- 魔棒杆 -->
+    <path
+        android:pathData="M4.5,19.5 L13,11"
+        android:strokeColor="#FF000000" android:strokeWidth="1.8" android:fillColor="#00000000"
+        android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <!-- 四角星（魔力光点） -->
+    <path
+        android:pathData="M17.5,3 L18.7,6.3 L22,7.5 L18.7,8.7 L17.5,12 L16.3,8.7 L13,7.5 L16.3,6.3 Z"
+        android:strokeColor="#FF000000" android:strokeWidth="1.8" android:fillColor="#00000000"
+        android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <!-- 火花 -->
+    <path
+        android:pathData="M11,3 L11,3.01 M22,13.5 L22,13.51"
+        android:strokeColor="#FF000000" android:strokeWidth="1.8" android:fillColor="#00000000"
+        android:strokeLineCap="round" android:strokeLineJoin="round" />
+</vector>

@@ -1,0 +1,21 @@
+# 统一换行符：
+# Windows 默认 core.autocrlf=true 会把 gradlew 转成 CRLF，导致在 Linux/macOS/CI 上无法执行。
+# 这里显式锁定，避免换行符被自动转换。
+* text=auto
+gradlew text eol=lf
+gradlew.bat text eol=crlf
+*.sh text eol=lf
+*.bat text eol=crlf
+
+# 二进制文件不做行尾转换
+*.jar binary
+*.apk binary
+*.aab binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.ttf binary
+*.otf binary
+*.keystore binary
+*.jks binary

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    关闭系统备份与换机迁移：不把任何应用数据交给系统的备份服务。
+    配合 AndroidManifest 中的 android:allowBackup="false" 一起使用，
+    覆盖 Android 12(API 31) 及以上将云备份与设备迁移分开控制的场景。
+-->
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="root" />
+        <exclude domain="file" />
+        <exclude domain="database" />
+        <exclude domain="sharedpref" />
+        <exclude domain="external" />
+        <exclude domain="device_root" />
+    </cloud-backup>
+    <device-transfer>
+        <exclude domain="root" />
+        <exclude domain="file" />
+        <exclude domain="database" />
+        <exclude domain="sharedpref" />
+        <exclude domain="external" />
+        <exclude domain="device_root" />
+    </device-transfer>
+</data-extraction-rules>

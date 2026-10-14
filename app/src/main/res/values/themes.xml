@@ -1,0 +1,16 @@
+<resources>
+    <style name="Theme.ShiftPlanner" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <!-- 系统时间/日期选择器主题：Holo 系列颜色确定（不随系统夜间模式漂移），
+         深色 = 黑底白字，浅色 = 白底黑字，与 App 内手动切换的外观模式严格一致 -->
+    <style name="PickerTheme" parent="android:Theme.Holo.Dialog">
+        <item name="android:colorAccent">#0A84FF</item>
+    </style>
+    <style name="PickerTheme.Light" parent="android:Theme.Holo.Light.Dialog">
+        <item name="android:colorAccent">#007AFF</item>
+    </style>
+</resources>
