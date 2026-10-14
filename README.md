@@ -1,7 +1,6 @@
 # 简表排班 (ShiftPlanner)
 
 一个**完全离线**的安卓排班工具。数据只保存在本机，应用不申请网络权限，不会上传任何内容。
-<img width="365" height="649" alt="屏幕截图 2026-10-14 141030" src="https://github.com/user-attachments/assets/59b33bab-160a-4184-8fa2-c6e9f7b095fe" />
 
 ## 功能
 
