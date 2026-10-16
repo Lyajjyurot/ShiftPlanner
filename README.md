@@ -3,7 +3,7 @@
 一个**完全离线**的安卓排班工具。数据只保存在本机，应用不申请网络权限，不会上传任何内容。
 
 
-使用视频：链接: https://pan.baidu.com/s/1PJD1U_rEQMax249YVgEFMA 提取码: etgm
+链接: https://pan.baidu.com/s/1PJD1U_rEQMax249YVgEFMA 提取码: etgm
 ## 功能
 
 - **日历排班**：月视图日历（含农历），每天最多 3 个班次时段；点击日期即可查看/编辑当日班次与待办。
